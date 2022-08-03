@@ -1,1 +1,1 @@
-# Self-Project-1
+This is a project on simple linear regression. I imported the data on CO2 emission of cars from Kaggle into SPSS and performed F- test to test whether regression is valid and t-test to check which independent variables have a significant effect on the emission of CO2 of cars at 5% level of significance. I fitted a linear regression model to the data taking CO2 emission of cars as the dependent variable and volume of gas and weight of fuel as the independent variables to try and predict the CO2 emission for different models of cars. 
